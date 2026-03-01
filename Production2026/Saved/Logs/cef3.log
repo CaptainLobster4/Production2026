@@ -1,6 +1,22 @@
-[23868:19300:0213/131747.668:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23868:14380:0213/131747.708:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23868:19300:0213/131747.714:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23868:19300:0213/131755.419:ERROR:device_event_log_impl.cc(196)] [13:17:55.341] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[18932:9540:0213/131755.732:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-56DE71789D17D956F4477DA2BDD39A1C will be ignored
-[23868:19300:0213/133047.800:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14372:16064:0301/125554.215:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14372:16064:0301/125554.317:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[14372:8808:0301/125554.391:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14372:16064:0301/125554.489:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14372:2132:0301/125557.853:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14372:2132:0301/125557.854:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14372:2132:0301/125557.856:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14372:2132:0301/125557.857:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14372:2132:0301/125558.152:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14372:2132:0301/125558.156:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32884:25012:0301/125558.361:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C50C7292466DB97ED6665886242F767A will be ignored
+[14372:17824:0301/125558.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[14372:16064:0301/125558.855:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14372:16064:0301/125558.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14372:16064:0301/125558.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14372:16064:0301/125558.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14372:17824:0301/125558.860:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[14372:16064:0301/125600.113:ERROR:device_event_log_impl.cc(196)] [12:56:00.108] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[14372:17128:0301/125600.255:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6636:6832:0301/125811.166:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6636:6832:0301/125811.166:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14372:16064:0301/130759.374:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
