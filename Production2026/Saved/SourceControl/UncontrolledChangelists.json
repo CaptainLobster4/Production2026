@@ -7,6 +7,22 @@
 			"files": [
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Levels/_Map.umap",
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/_Map.umap",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/ThirdPerson/Blueprints/BP_PaperCharacter.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Sprites/PercivalSprite.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Sprites/PercivalBack.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Sprites/PercivalFlipbook.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Sprites/Percival_Side_Sprite_MockUP.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Sprites/Percival_Back_Sprite_MockUP.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/openPBR_shader1.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/Mesh.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/Mesh_ncl_1.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/Mesh_ncl_2.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/Mesh_ncl_3.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/Mesh_ncl_4.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/Mesh_ncl_5.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/Models/SceneImport_PercivalMockUpMesh.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Art/StaticMeshes/Test_Floor.uasset",
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IMC_Main.uasset",
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_Jump.uasset",
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_Locomotion.uasset",
@@ -18,7 +34,6 @@
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/BP_Gamemode.uasset",
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_Primary.uasset",
 				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_Look.uasset",
-				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/ThirdPerson/Blueprints/BP_PaperCharacter.uasset",
 				"C:/Users/lucas/OneDrive/Documents/GitHub/Production2026/Production2026/Content/_Map.umap"
 			]
 		}
