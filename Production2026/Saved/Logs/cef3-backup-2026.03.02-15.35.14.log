@@ -1,0 +1,96 @@
+[20784:18040:0302/103056.288:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20784:18040:0302/103056.395:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[20784:8580:0302/103056.472:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20784:18040:0302/103056.544:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20784:25712:0302/103058.649:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20784:25712:0302/103058.650:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20784:25712:0302/103058.652:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20784:25712:0302/103058.655:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20784:8580:0302/103059.300:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20784:8580:0302/103059.301:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22692:18100:0302/103059.774:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4CB90B77F8283CB320CBFD167070AE44 will be ignored
+[17664:12904:0302/103059.852:ERROR:backend_impl.cc(989)] Critical error found -8
+[17664:12904:0302/103059.852:ERROR:entry_impl.cc(1029)] No file for c103009c
+[17664:12904:0302/103059.852:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.911:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.911:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.911:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.911:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.911:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.911:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.915:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.915:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.917:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.917:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.917:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.917:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.917:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.920:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.920:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.920:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.920:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.920:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.920:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.920:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.922:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.923:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.941:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.941:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.944:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.944:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.947:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.947:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103059.948:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.948:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.988:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103059.988:ERROR:entry_impl.cc(955)] Failed to save user data
+[17664:12904:0302/103100.301:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103100.302:WARNING:storage_block-inl.h(138)] Failed data load.
+[17664:12904:0302/103100.302:WARNING:storage_block-inl.h(138)] Failed data load.
+[23640:15048:0302/103100.765:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-A25682587C2C2CFDECDF30207E1C144F will be ignored
+[20784:4008:0302/103104.118:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\am110009\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20784:18040:0302/103514.782:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
