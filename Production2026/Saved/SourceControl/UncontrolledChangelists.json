@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Levels/_Map.umap",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/_Map.umap",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IMC_Main.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_Jump.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_Locomotion.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_Strafe.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_LookH.uasset",
+				"C:/Users/am110009/Documents/GitHub/Production2026/Production2026/Content/Blueprints/Input/IA_LookV.uasset",
 				"C:/Users/lucas/OneDrive/Documents/GitHub/Production2026/Production2026/Content/_Map.umap"
 			]
 		}
