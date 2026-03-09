@@ -1,11 +1,10 @@
-2026/03/08-19:12:51.200 22c0 Log #9: 15 ops saved to Table #23 OK
-2026/03/08-19:12:51.203 22c0 Archiving C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
-2026/03/08-19:12:51.214 22c0 Log #21: 2 ops saved to Table #24 OK
-2026/03/08-19:12:51.214 22c0 Archiving C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database/000021.log: OK
-2026/03/08-19:12:51.214 22c0 Table #4: 2 entries OK
-2026/03/08-19:12:51.214 22c0 Table #7: 1 entries OK
-2026/03/08-19:12:51.219 22c0 Table #22: 3 entries OK
-2026/03/08-19:12:51.220 22c0 Table #23: 15 entries OK
-2026/03/08-19:12:51.220 22c0 Table #24: 2 entries OK
-2026/03/08-19:12:51.222 22c0 Archiving C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/08-19:12:51.231 22c0 **** Repaired leveldb C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database; recovered 5 files; 1127 bytes. Some data may have been lost. ****
+2026/03/08-19:12:51.241 22c0 Reusing MANIFEST C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/08-19:12:51.242 22c0 Compacting 5@0 + 0@1 files
+2026/03/08-19:12:51.248 22c0 Generated table #27@0: 3 keys, 256 bytes
+2026/03/08-19:12:51.248 22c0 Compacted 5@0 + 0@1 files => 256 bytes
+2026/03/08-19:12:51.249 22c0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/08-19:12:51.249 22c0 Delete type=2 #4
+2026/03/08-19:12:51.249 22c0 Delete type=2 #7
+2026/03/08-19:12:51.249 22c0 Delete type=2 #22
+2026/03/08-19:12:51.249 22c0 Delete type=2 #23
+2026/03/08-19:12:51.249 22c0 Delete type=2 #24
