@@ -1,3 +1,10 @@
-2026/03/07-12:08:29.799 64ec Reusing MANIFEST C:\Users\Owner\Desktop\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/07-12:08:29.800 64ec Recovering log #9
-2026/03/07-12:08:29.800 64ec Reusing old log C:\Users\Owner\Desktop\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+2026/03/08-19:12:51.241 22c0 Reusing MANIFEST C:\Users\lucas\OneDrive\Documents\GitHub\Production2026\Production2026\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/08-19:12:51.242 22c0 Compacting 5@0 + 0@1 files
+2026/03/08-19:12:51.248 22c0 Generated table #27@0: 3 keys, 256 bytes
+2026/03/08-19:12:51.248 22c0 Compacted 5@0 + 0@1 files => 256 bytes
+2026/03/08-19:12:51.249 22c0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/08-19:12:51.249 22c0 Delete type=2 #4
+2026/03/08-19:12:51.249 22c0 Delete type=2 #7
+2026/03/08-19:12:51.249 22c0 Delete type=2 #22
+2026/03/08-19:12:51.249 22c0 Delete type=2 #23
+2026/03/08-19:12:51.249 22c0 Delete type=2 #24
